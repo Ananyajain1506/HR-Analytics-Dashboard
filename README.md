@@ -1,45 +1,36 @@
 📊 HR Analytics Dashboard
 
-This project showcases an HR Analytics Dashboard built to analyze employee attrition trends and workforce insights. The dashboard helps HR and management teams identify key factors influencing employee turnover and take data-driven decisions to improve retention strategies.
+Project Goal: Built to analyze employee attrition trends and provide workforce insights.
 
-🚀 Features
+Purpose: Helps HR and management identify key factors influencing employee turnover and take data-driven decisions for retention strategies.
 
-Overall Workforce Overview:-
+Overall Workforce Stats:
+
 Total Employees: 1470
-Attrition: 237 (Attrition Rate: 16.1%)
+
+Attrition: 237 (Rate: 16.1%)
+
 Average Age: 37 years
+
 Average Sales: 6.5K
-Average Years at Company: 7 years
 
-Attrition Analysis:-
-By Gender: Male vs Female comparison
-By Education: Life Sciences, Medical, Marketing, Technical, etc.
-By Age Group: 18–25, 26–35, 36–45, 46–55, 55+
-By Salary Slab: Upto 5K, 5K–10K, 10K–15K, 15K+
-By Years at Company: Attrition trends across employee tenure
-By Job Role: Sales Executive, Laboratory Technician, Research Scientist, etc.
+Average Tenure: 7 years
 
-Interactive Department-Wise Filtering:-
-Human Resources
-Research & Development
-Sales
+Attrition Analysis: Comparison by gender, education, age group, salary slab, years at company, and job role.
 
-🛠 Tools & Technologies:-
-Power BI 
-Data Cleaning & Transformation
-Data Visualization and Dashboard Design
+Filters Applied: Department-wise filtering for HR, R&D, and Sales.
 
-📌 Key Insights:-
-Most attrition occurs in the 26–35 age group.
-Employees earning up to 5K show the highest attrition.
-Laboratory Technicians and Sales Executives have the maximum turnover.
-Majority of attrition comes from employees with Life Sciences and Medical backgrounds.
+Tools & Tech: Power BI, Data Cleaning & Transformation, Dashboard Design, Data Visualization.
 
-🎯 Outcome:-
-This dashboard enables HR professionals to:
-✔ Monitor attrition rate effectively
-✔ Identify high-risk groups for turnover
-✔ Make data-driven decisions for employee retention strategies
+Key Insights:
+
+Highest attrition in the 26–35 age group
+
+Employees earning up to 5K show maximum attrition
+
+Laboratory Technicians & Sales Executives face the highest turnover
+
+Outcome: Clear visibility into attrition patterns, enabling proactive HR policies and retention measures.
 
 Demos/Screenshot:-
 
