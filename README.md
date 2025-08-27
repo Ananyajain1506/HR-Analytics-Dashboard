@@ -43,6 +43,8 @@ This dashboard enables HR professionals to:
 
 Demos/Screenshot:-
 
+Dashboard Preview:-(https://github.com/Ananyajain1506/HR-Analytics-Dashboard/blob/main/HR%20ANALYST%20DASHBOARD.png)
+
 
 
 
